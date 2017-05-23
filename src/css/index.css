@@ -1,0 +1,147 @@
+.FirstUser {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    margin:0px;
+    display: block;
+    color: white;
+    text-align: center;
+    background-color: teal;
+    padding: 20px;
+}
+
+.first {
+    text-align: center;
+    display: block;
+    position: relative;
+    margin: 0px auto;
+}
+
+.second {
+    text-align: center;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    -webkit-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    -moz-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+}
+
+.link {
+    font-size: 15px;
+    float: right;
+    font-style: italic;
+    margin: 10px;
+}
+
+.desc {
+    display: inline-block;
+    font-size: 20px;
+    width: 100px;
+    margin: 10px;
+}
+
+.AddTransaction {
+    margin: 0 auto;
+    width: 40%;
+    display: block;
+    -webkit-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    -moz-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+}
+
+.form-control {
+    display: inline-block;
+    width: auto%;
+}
+
+#bg-nested-dropdown {
+    display: inline-block;
+}
+
+.single_input {
+    margin: 5px;
+}
+
+.btn-success {
+    float: right;
+    position: relative;
+}
+
+.first_row {
+    border: solid teal;
+    padding: 8px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.btn-danger {
+    margin: 0 auto;
+    float: right;
+    position: relative;
+    -webkit-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    -moz-box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+    box-shadow: -7px -6px 16px 0px rgba(0, 80, 83, 0.52);
+}
+
+.welcome {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.Transactions {
+    margin: 10px;
+}
+
+.buttons {
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+.debit {
+    display: inline;
+    font-size: 25px;
+    float: right;
+    padding: 15px;
+    border-bottom: solid teal 4px;
+}
+
+.credit {
+    border-bottom: solid teal 4px;
+    padding: 15px;
+    display: inline;
+    font-size: 25px;
+    float: left;
+    font-style: bold;
+}
+
+.debit-credit {
+    height: auto;
+    text-align: center;
+}
+
+.table {
+    margin-bottom: 20px;
+    border-bottom: solid teal 3px;
+    font-size: 20px;
+}
+
+.todays-date {
+    display: none;
+}
+
+#table_row:hover {
+    cursor: pointer;
+    background-color: lightblue;
+}
+.details{
+    margin:10px;
+    padding:10px;
+    background-color: lightblue;
+    font-size: 20px;
+}
